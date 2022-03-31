@@ -11,17 +11,23 @@
     background: url(https://autohub.cc/wp-content/uploads/2020/12/red-sedan.jpg);
     background-repeat: no-repeat;
 }
+.gonnhe{
+    background: url(https://cms-i.autodaily.vn/du-lieu/2017/10/20/2018-audi-a7-sportback-2carscoops.jpg);
+    background-repeat: no-repeat;
+}
 .hoatdongcuaautohub{
     border-style: solid;
     border-radius: 5px;
     border-color: red;
 }
 .timkiemtutrangchu{
+    margin-top: 300px;
     padding-left: 12%;
 }
 .timchiecxehoanhao{
-    border-style: solid;
-    padding-left: 55%;
+    margin-left: 1020px;
+    margin-right: 370px;
+    margin-top: -380px;
     background-color: aliceblue;
 }
 .timxe{
