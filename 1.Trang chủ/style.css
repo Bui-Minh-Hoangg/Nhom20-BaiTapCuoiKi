@@ -1,18 +1,29 @@
 .first-header{
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQPhA5sPzoUOZRLKptnDqBAZwuUzPiw4taA&usqp=CAU);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    margin-top: auto;
+    background-image: url('1.Trang chủ\IMG\header.jpg') top center / cover no-repeat ;
 
 }
 .danhmucphobien{
     background-color: white;
+    padding-top: 740px;
 }
 .xethethao{
     background: url(https://autohub.cc/wp-content/uploads/2020/12/red-sedan.jpg);
     background-repeat: no-repeat;
 }
-.Dangkimienphi{
+.hoatdongcuaautohub{
     border-style: solid;
     border-radius: 5px;
     border-color: red;
+}
+.timkiemtutrangchu{
+    padding-left: 12%;
+}
+.timchiecxehoanhao{
+    border-style: solid;
+    padding-left: 55%;
+    background-color: aliceblue;
+}
+.timxe{
+    padding-top: 145px;
 }
