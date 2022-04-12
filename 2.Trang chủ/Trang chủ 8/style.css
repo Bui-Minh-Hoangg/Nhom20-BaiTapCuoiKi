@@ -1,0 +1,60 @@
+#DIV_1 {
+    block-size: 500px;
+    border-block-end-color: rgb(148, 138, 153);
+    border-block-start-color: rgb(148, 138, 153);
+    border-inline-end-color: rgb(148, 138, 153);
+    border-inline-start-color: rgb(148, 138, 153);
+    box-sizing: border-box;
+    caret-color: rgb(148, 138, 153);
+    color: rgb(148, 138, 153);
+    column-rule-color: rgb(148, 138, 153);
+    height: 500px;
+    inline-size: 500px;
+    perspective-origin: 250px 250px;
+    text-align: left;
+    text-decoration: none solid rgb(148, 138, 153);
+    text-emphasis-color: rgb(148, 138, 153);
+    text-size-adjust: 100%;
+    transform-origin: 250px 250px;
+    width: 500px;
+    border: 0px none rgb(148, 138, 153);
+    font: 16px / 26.4px "Work Sans";
+    outline: rgb(148, 138, 153) none 0px;
+}/*#DIV_1*/
+
+#DIV_1:after {
+    border-block-end-color: rgb(148, 138, 153);
+    border-block-start-color: rgb(148, 138, 153);
+    border-inline-end-color: rgb(148, 138, 153);
+    border-inline-start-color: rgb(148, 138, 153);
+    box-sizing: border-box;
+    caret-color: rgb(148, 138, 153);
+    color: rgb(148, 138, 153);
+    column-rule-color: rgb(148, 138, 153);
+    text-align: left;
+    text-decoration: none solid rgb(148, 138, 153);
+    text-emphasis-color: rgb(148, 138, 153);
+    text-size-adjust: 100%;
+    border: 0px none rgb(148, 138, 153);
+    font: 16px / 26.4px "Work Sans";
+    outline: rgb(148, 138, 153) none 0px;
+}/*#DIV_1:after*/
+
+#DIV_1:before {
+    border-block-end-color: rgb(148, 138, 153);
+    border-block-start-color: rgb(148, 138, 153);
+    border-inline-end-color: rgb(148, 138, 153);
+    border-inline-start-color: rgb(148, 138, 153);
+    box-sizing: border-box;
+    caret-color: rgb(148, 138, 153);
+    color: rgb(148, 138, 153);
+    column-rule-color: rgb(148, 138, 153);
+    text-align: left;
+    text-decoration: none solid rgb(148, 138, 153);
+    text-emphasis-color: rgb(148, 138, 153);
+    text-size-adjust: 100%;
+    border: 0px none rgb(148, 138, 153);
+    font: 16px / 26.4px "Work Sans";
+    outline: rgb(148, 138, 153) none 0px;
+}/*#DIV_1:before*/
+
