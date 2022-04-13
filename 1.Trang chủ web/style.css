@@ -1,19 +1,42 @@
 .first-header{
-    margin-top: auto;
-    background-image: url('1.Trang chủ\IMG\header.jpg') top center / cover no-repeat ;
-
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://www.marisit.co.za/wp-content/uploads/2019/09/MarisIT-car-dealer-fraud.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 1860px;
 }
 .danhmucphobien{
     background-color: white;
-    padding-top: 740px;
+
 }
 .xethethao{
+    width: 730px;
+    height: 300px;
     background: url(https://autohub.cc/wp-content/uploads/2020/12/red-sedan.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
+
 }
 .gonnhe{
-    background: url(https://cms-i.autodaily.vn/du-lieu/2017/10/20/2018-audi-a7-sportback-2carscoops.jpg);
+    width: 360px;
+    height: 300px;
+    background: url(https://giaxehoi.vn/uploads/tin-xe/danh-gia-xe/danh-gia-xe-audi-a8-2022/gia-xe-audi-a8-2021-muaxegiatot-vn-800x534.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
+}
+.coupe{
+    width: 360px;
+    height: 300px;
+    background: url(https://www.mercedes-benz.com.vn/content/vietnam/vi/passengercars/_jcr_content/root/responsivegrid/simple_teaser_115569/simple_teaser_item_2.component.damq2.3265556125562.jpg/a200-amg-line.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.cothechuyendoi{
+    width: 730px;
+    height: 300px;
+    background: url(https://i.xeoto.com.vn/auto/mercedes/c180/mercedes-c180-phien-ban-16-turbo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .hoatdongcuaautohub{
     border-style: solid;
@@ -23,13 +46,28 @@
 .timkiemtutrangchu{
     margin-top: 300px;
     padding-left: 12%;
+    color: aliceblue;
 }
 .timchiecxehoanhao{
+    width: 480px;
+    height: 580px;
+    padding: 45px;
     margin-left: 1020px;
     margin-right: 370px;
     margin-top: -380px;
-    background-color: aliceblue;
+    background-color: white;
+    
 }
 .timxe{
     padding-top: 145px;
+}
+.mua{
+    width: 190px;
+    height: 40px;
+    background-color: #e0dbdb;
+}
+.thue{
+    width: 190px;
+    height: 40px;
+    background-color: #e0dbdb;
 }
